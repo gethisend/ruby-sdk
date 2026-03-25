@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'hisend'
-  s.version     = '1.0.0'
+  s.version     = '1.2.0'
   s.summary     = 'Official Ruby SDK for Hisend'
   s.description = 'The official Hisend Ruby client for interacting with the Hisend API.'
   s.authors     = ['Hisend']
